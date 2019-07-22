@@ -1,0 +1,126 @@
+body{
+	font-family: 'Titillium Web', sans-serif;
+}
+.logo{
+	height: 35%;
+	width: 35%;
+	margin-left:20px;
+}
+.nav-wrapper{
+	margin-bottom: 35px;
+	padding-top: 35px;
+	padding-bottom: 35px;
+	background: rgba(0,0,0,0.9);
+}
+.carousel a > img{
+	margin-top: 35px;
+}
+.informacion > h1,h2{
+	color:white;
+	font-family: 'Titillium Web', sans-serif;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	margin-left: 0px;
+	font-size: 25px;
+}
+.informacion{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	background-color: #6360A1;
+	border-top-width:100px;
+	border-top-color: yellow;
+}
+.informacion > h2{
+	display: inline-block;
+	font-size: 15px;
+	margin-bottom: 10px;
+	margin-top: 0px;
+	margin-right: 10px;
+	margin-left: 10px;
+}
+.informacion a > img{
+	height: 14px;
+	width: 14px;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-top: 0px;
+	margin-bottom: 10px;
+	padding-bottom: 0px;
+}
+.hardrock2{
+	color: #6360A1;
+	font-size: 18px;
+	font-weight: 1000;
+	margin-bottom: 0px;
+	font-family: 'Titillium Web', sans-serif;
+}
+.escenarioplaya{
+	color: black;
+	font-size: 36px;
+	/*font-weight: 500;*/
+	margin-top: 0px;
+	font-family: 'Titillium Web', sans-serif;
+
+}
+ul > li{
+	font-family: 'Titillium Web', sans-serif;
+}
+.hardrock3{
+	color: black;
+	font-size: 24px;
+}
+.leermas{
+	background-color: transparent;
+	border: 2px solid #6f6ab2;
+	color: #6f6ab2;
+}
+.btn{
+	background-color: transparent;
+	border: 2px solid #6f6ab2;
+	color: #6f6ab2;
+}
+.logof{
+	height: 35%;
+	width: 35%;
+	margin-bottom: 25px;
+}
+.navbar li > a{
+	color: #E5C100;
+	text-transform: uppercase;
+}
+.parallax-container{
+	margin-top: 55px;
+	width: 100%;
+}
+.habitaciones1{
+	color: #6f6ab2;
+}
+.card-action1{
+	text-align:right;
+	margin-top: 25px;
+}
+.video2{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+.c1{
+	background-color: #6f6ab2;
+	color: white;
+}
+.restaurantes{
+	color:#6f6ab2;
+}
+.restaurantesin{
+	color: #6f6ab2;
+}
+.container1{
+	margin-bottom: 0px;
+}
+.row1{
+	margin-bottom: 0px;
+}
+select > option{
+	color: #6f6ab2;
+}
