@@ -8,3 +8,46 @@ body{
 	width: 100%;
 	height: 100%;
 }
+.datos{
+	color: #E5C100;
+	text-shadow: 2px 2px 4px black;
+	font-size: 100px;
+	text-align: center;
+	letter-spacing: 5px;
+	font-weight: bold;
+}
+.pazteca{
+	font-family: 'Tangerine', cursive;
+	color: #E5C100;
+	font-size: 40px;
+	text-align: center;
+}
+.pazteca2{
+	font-family: 'Tangerine', cursive;
+	color: #FFFBE5;
+	font-size: 20px;
+	text-align: center;
+}
+.primera{
+	background-color: #B29600;
+}
+.paztecaimagen{
+	width: 15%;
+	height: 15%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.nombre{
+	text-align: center;
+	font-family: 'Nanum Myeongjo', serif;
+	font-size: 50px;
+	text-shadow: 2px 2px 4px red;
+}
+.ocupacion{
+	text-align: center;
+	margin-bottom: 80px;
+	font-family: 'Nanum Myeongjo', serif;
+	font-size: 32px;
+	text-shadow: 2px 2px 4px beige;
+}
