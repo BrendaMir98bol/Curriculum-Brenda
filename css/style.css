@@ -25,11 +25,13 @@ body{
 .pazteca2{
 	font-family: 'Tangerine', cursive;
 	color: #FFFBE5;
-	font-size: 20px;
+	font-size: 32px;
 	text-align: center;
 }
 .primera{
 	background-color: #B29600;
+	border-top: 10px solid black;
+	border-bottom: 10px solid black;
 }
 .paztecaimagen{
 	width: 15%;
