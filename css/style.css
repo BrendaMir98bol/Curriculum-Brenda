@@ -32,6 +32,9 @@ body{
 	background-color: #B29600;
 	border-top: 10px solid black;
 	border-bottom: 10px solid black;
+	background-image: url(../img/textura-papel-viejo_1249-136.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
 }
 .paztecaimagen{
 	width: 15%;
@@ -80,6 +83,7 @@ body{
 	border-bottom: 10px dotted black;
 	border-right: 10px dotted black;
 	border-left: 10px dotted black;*/
-	background-image: url(../img/leaf-1676640_960_720.jpg);
+	background-image: url(../img/ef3d5e49e9bdeaa98308677f7a5400cf.jpg);
 	background-repeat: inherit;
+	background-size: cover;
 }
