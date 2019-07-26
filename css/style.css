@@ -1,5 +1,5 @@
 body{
-	font-family: 'Titillium Web', sans-serif;
+	font-family: 'Nanum Myeongjo', serif;
 }
 .italia{
 	width: 100%;
@@ -11,9 +11,9 @@ body{
 .datos{
 	color: #E5C100;
 	text-shadow: 2px 2px 4px black;
-	font-size: 100px;
+	font-size: 65px;
 	text-align: center;
-	letter-spacing: 5px;
+	letter-spacing: 0px;
 	font-weight: bold;
 }
 .pazteca{
@@ -52,4 +52,34 @@ body{
 	font-family: 'Nanum Myeongjo', serif;
 	font-size: 32px;
 	text-shadow: 2px 2px 4px beige;
+}
+.facebook{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.twitter-tweet{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+.dato1{
+	font-size: 40px;
+	text-align: center;
+	color: beige;
+	text-shadow: 2px 2px 4px black;
+}
+.dato2{
+	font-size: 40px;
+	text-align: center;
+	color: black;
+	text-shadow: 2px 2px 4px #B29600;
+}
+.informacion{
+	/*border-top: 10px dotted black;
+	border-bottom: 10px dotted black;
+	border-right: 10px dotted black;
+	border-left: 10px dotted black;*/
+	background-image: url(../img/leaf-1676640_960_720.jpg);
+	background-repeat: inherit;
 }
