@@ -83,7 +83,16 @@ body{
 	border-bottom: 10px dotted black;
 	border-right: 10px dotted black;
 	border-left: 10px dotted black;*/
-	background-image: url(../img/ef3d5e49e9bdeaa98308677f7a5400cf.jpg);
+	background-image: url(../img/il_fullxfull.1822329676_15b0.jpg);
 	background-repeat: inherit;
 	background-size: cover;
+}
+.cinformacion{
+	border-top: 10px solid black;
+	border-bottom:10px solid black;
+}
+.logo{
+	width: 64px;
+	height: 64px;
+	margin-left: 10px;
 }
