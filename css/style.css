@@ -311,3 +311,16 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.primera5{
+	background-image: url(../img/Fondo-rojo-wallpaper.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.cinformaicon2{
+	display: flex;
+	min-height: 100vh;
+	flex-direction: column;
+}
+main {
+	flex: 1 0 auto;
+}
