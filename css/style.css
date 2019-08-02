@@ -318,3 +318,16 @@ body{
 	margin-left: auto;
 	margin-right: auto;
 }
+.m1{
+	width: 100%;
+}
+.m2{
+	width: 80%;
+	padding-bottom: -20px;
+}
+.m3{
+	width: 60%;
+}
+.m4{
+	width: 40%;
+}
