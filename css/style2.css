@@ -123,6 +123,11 @@ body{
 	border: 3px solid black;
 }
 
+.row .col {
+	padding-top: 120px;
+	padding-bottom: 120px;
+}
+
 .bloque1a{
 	animation-name: fadeInDownBig;
 	animation-duration: 2s;
@@ -310,11 +315,4 @@ body{
 	background-image: url(../img/Fondo-rojo-wallpaper.jpg);
 	background-repeat: no-repeat;
 	background-size: cover;
-}
-.correocarita{
-	width: 25%;
-	height: 25%;
-	display: block;
-	margin-left: auto;
-	margin-right: auto;
 }
