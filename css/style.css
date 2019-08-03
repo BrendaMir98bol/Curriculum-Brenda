@@ -618,3 +618,53 @@ nav ul a.btn{
 	margin-left: auto;
 	margin-right: auto;
 }
+.comentarios{
+	width:100%;
+	margin-top:50px;
+}
+
+.comentarios .comentario{
+	width: 100%;
+	margin-bottom: 20px;
+}
+
+.comentarios .comentario p{
+	margin: 0 0 10px 0;
+}
+
+.burbuja{
+	position: relative;
+	background-color: #3FBFBF;
+	padding: 20px;
+	color: #222;
+	border-radius: 3px;
+	margin-left: 20px;
+	border: 5px solid black;
+
+}
+
+.burbuja:after{
+	content: "";
+	display: block;
+	position: absolute;
+
+	top: 15px;
+	margin-left: -35px;
+
+	width: 0;
+	height: 0;
+	border-top: 8px solid transparent;
+	border-bottom: 8px solid transparent;
+
+	border-right: 15px solid #3FBFBF;
+}
+
+.personajes{
+	height: 700px;
+}
+
+.personajes_img{
+	width: 70%;
+	height: 100%;
+	padding-right: 0px;
+}
