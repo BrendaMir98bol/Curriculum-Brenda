@@ -642,7 +642,7 @@ nav ul a.btn{
 
 .burbuja{
 	position: relative;
-	background-color: #FFB2B2;
+	background-color: #3240FF;
 	padding: 20px;
 	color: black;
 	border-radius: 3px;
@@ -666,7 +666,7 @@ nav ul a.btn{
 	border-top: 8px solid transparent;
 	border-bottom: 8px solid transparent;
 
-	border-right: 15px solid #FFB2B2;
+	border-right: 15px solid #3240FF;
 }
 
 .personajes{
@@ -683,4 +683,11 @@ nav ul a.btn{
 	text-align: center;
 	font-size: 50px;
 	text-shadow: 2px 2px 4px #001CB2;
+}
+.pasos{
+	width: 20%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	border-color: white;
 }
