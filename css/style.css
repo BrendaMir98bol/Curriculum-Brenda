@@ -471,6 +471,11 @@ body{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
+.primera6{
+	background-image: url(../img/fondo-verde-1.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
 .correocarita{
 	width: 25%;
 	height: 25%;
@@ -534,6 +539,9 @@ li a.menu4{
 
 li a.menu5{
 	background-color: #F16868;
+}
+li a.menu6{
+	background-color: #66B266;
 }
 
 nav ul a.btn{
@@ -624,7 +632,7 @@ nav ul a.btn{
 }
 
 .comentarios .comentario{
-	width: 100%;
+	width: 90%;
 	margin-bottom: 20px;
 }
 
@@ -634,12 +642,14 @@ nav ul a.btn{
 
 .burbuja{
 	position: relative;
-	background-color: #3FBFBF;
+	background-color: #FFB2B2;
 	padding: 20px;
-	color: #222;
+	color: black;
 	border-radius: 3px;
 	margin-left: 20px;
 	border: 5px solid black;
+	padding-right: 20px;
+	font-size: 35px;
 
 }
 
@@ -656,7 +666,7 @@ nav ul a.btn{
 	border-top: 8px solid transparent;
 	border-bottom: 8px solid transparent;
 
-	border-right: 15px solid #3FBFBF;
+	border-right: 15px solid #FFB2B2;
 }
 
 .personajes{
@@ -667,4 +677,10 @@ nav ul a.btn{
 	width: 70%;
 	height: 100%;
 	padding-right: 0px;
+	margin-left: 65px;
+}
+.formacionacademica{
+	text-align: center;
+	font-size: 50px;
+	text-shadow: 2px 2px 4px #001CB2;
 }
