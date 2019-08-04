@@ -41,16 +41,28 @@
 		animation-iteration-count: 20;
 		animation-delay: 0s;
 	}
-	.burbuja{
-		position: inherit;
-		background-color: #FFB2B2;
-		padding: 20px;
-		color: black;
-		border-radius: 3px;
-		margin-left: 20px;
-		border: 5px solid black;
-		padding-right: 20px;
-		font-size: 35px;
+	.burbuja:after{
+		content: "";
+		display: block;
+		position: absolute;
 
+		top: 55px;
+		margin-left: -35px;
+
+		width: 0;
+		height: 0;
+		border-top: 8px solid transparent;
+		border-bottom: 8px solid transparent;
+
+		border-right: 15px solid transparent;
+	}
+	.pasos{
+		height: 400px;
+		margin-bottom:0px;
+	}
+
+	.img_pasos{
+		height: 300px;
+		width: 100%;
 	}
 }	
