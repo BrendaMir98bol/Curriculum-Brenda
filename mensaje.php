@@ -1,5 +1,5 @@
 <?php
-$destino="ianricardo2011@hotmail.com";
+$destino="heartbreakersince1990@gmail.com";
 $nombre= $_POST["nom"];
 $correo= $_POST["corr"];
 $mensaje= $_POST["msj"]; 
